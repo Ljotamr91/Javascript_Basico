@@ -38,3 +38,5 @@ X  eliminar tus vias remotas
 Y luego crearlas con TU url, no la mia, tu GitHub
 
 	git remote origin master
+
+Z repetir el 4 y el 6 cada vez que quieras actualiar en tu repositorio github
