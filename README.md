@@ -1,5 +1,6 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# cursJavaScriptExampleFunction
+Ejercicio 2 Ejemplo de funciones con y sin parametros
+ejemplo de objeto array y variables
 
 0 borrar carpeta .git que ya viene de la clonacion 
 	carpeta oculta .git
