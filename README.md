@@ -4,6 +4,7 @@ ejemplo de objeto array y variables
 
 0 borrar carpeta .git que ya viene de la clonacion 
 	carpeta oculta .git
+	 rm -rf .git
 
 1 clonas repositorio 
 
